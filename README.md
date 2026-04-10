@@ -58,7 +58,7 @@ Per-project app entry files:
 Install dependencies:
 
 ```bash
-pip install streamlit pandas numpy matplotlib seaborn scikit-learn
+pip install -r requirements.txt
 ```
 
 Run any app:
